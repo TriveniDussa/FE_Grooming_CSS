@@ -1,6 +1,6 @@
 
 import React from 'react';
-import './app.css';
+import './App.css';
 import pro from './assets/pro.webp';
 
 function App() {
